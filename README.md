@@ -12,7 +12,7 @@ Compatibilidade - O Android é compatível com quase todos os tipos de hardware 
 Atualizações de segurança - Embora nem todos os dispositivos Android recebam as atualizações de segurança com a mesma frequência, o Google lança correções de segurança regularmente para sua plataforma Android. Isso ajuda a manter os dispositivos Android seguros ao longo do tempo.
 
 
---------------------------------------------------------------
+--------------------------------------------------------------Creditos Totais a Empresa Android------------------------------------------------------------
 --------------|O Android oferece algumas das melhores características em sistemas operacionais móveis, incluindo personalização, compatibilidade, segurança aprimorada e mais.
 
 Personalização - Uma das principais forças do Android é a capacidade de personalização. Você pode personalizar quase todos os aspectos da interface do usuário, desde ícones e temas até widgets e configurações de layout. Você também pode download de vários aplicativos como personalização profunda do sistema. Isso dá aos usuários controle total sobre como querem que seu telefone Android pareça e funcione.
